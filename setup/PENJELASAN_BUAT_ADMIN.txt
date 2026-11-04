@@ -1,0 +1,21 @@
+PENJELASAN PEMBUATAN AKUN ADMINISTRATOR
+Mini Digital Library (Rak Baca)
+
+1. TUJUAN
+File buat_admin.php membuat akun administrator pertama. Akun ini dipakai untuk login dan mengelola data buku.
+
+2. CARA KERJA
+1) Menentukan username dan password awal.
+2) Menghubungkan script ke database lewat koneksi.php.
+3) Mengubah password menjadi hash dengan password_hash() sebelum disimpan.
+4) Memeriksa apakah username sudah ada, lalu menyimpan username dan hash ke tabel users.
+
+3. AKUN AWAL
+Username : admin
+Password : admin123
+(Untuk pengujian dan demo. Ganti jika aplikasi dipakai sungguhan.)
+
+4. KEAMANAN
+Password tidak disimpan sebagai teks biasa. Setelah akun terbuat, hapus atau nonaktifkan buat_admin.php dari folder yang dapat diakses browser.
+
+Catatan: file db_perpustakaan.sql sudah berisi akun admin yang sama, sehingga menjalankan buat_admin.php hanya diperlukan jika tabel users kosong.
