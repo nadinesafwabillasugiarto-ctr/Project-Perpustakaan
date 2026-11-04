@@ -40,6 +40,7 @@ project_perpustakaan/
 ├── proses_edit.php           # Update + ganti sampul
 ├── hapus_buku.php            # Delete + unlink sampul
 └── db_perpustakaan.sql       # Ekspor database
+└── README.md      
 ```
 
 ## Cara menjalankan
