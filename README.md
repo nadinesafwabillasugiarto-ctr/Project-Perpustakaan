@@ -78,8 +78,6 @@ Jika tabel `users` kosong, jalankan `setup/buat_admin.php` sekali lewat browser,
 
 ## Screenshot
 
-> Ganti dengan screenshot milikmu. Simpan di folder `screenshots/` dengan nama berikut.
-
 | Halaman | Gambar |
 |---|---|
 | Login | ![Login](screenshots/1.%20login.png) |
