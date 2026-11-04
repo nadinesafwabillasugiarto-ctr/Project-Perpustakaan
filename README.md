@@ -82,7 +82,7 @@ Jika tabel `users` kosong, jalankan `setup/buat_admin.php` sekali lewat browser,
 | Halaman | Gambar |
 |---|---|
 | Login | ![Login](screenshots/1.%20login.png) |
-| Dashboard (tabel) | ![Dashboard](screenshots/2.%20dashboard_2.png) |
+| Dashboard | ![Dashboard](screenshots/2.%20dashboard_2.png) |
 | Tambah buku | ![Tambah](screenshots/3.%20Halaman%20Tambah%20Buku.png) |
 | Edit buku | ![Edit](screenshots/4.%20Halaman%20Edit%20Buku.png) |
 | Hapus Buku | ![Hapus](screenshots/8.%20Hapus%20Buku.png) |
@@ -92,4 +92,7 @@ Jika tabel `users` kosong, jalankan `setup/buat_admin.php` sekali lewat browser,
 
 ## Video demo
 
-[Tonton di YouTube](ISI_LINK_VIDEO_DI_SINI)
+[Tonton di YouTube](https://youtu.be/p14FB58CwaQ)
+
+## Link Repository
+
