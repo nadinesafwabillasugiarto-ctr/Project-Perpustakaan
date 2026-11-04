@@ -51,7 +51,7 @@ project_perpustakaan/
 4. Sesuaikan kredensial di `koneksi.php` bila perlu.
 5. Buka `http://localhost/project_perpustakaan/`.
 
-**Akun awal:** `admin` / `admin123`
+**Akun awal:** `admin` / `123456`
 
 Jika tabel `users` kosong, jalankan `setup/buat_admin.php` sekali lewat browser, lalu hapus file tersebut.
 
