@@ -29,7 +29,8 @@ project_perpustakaan/
 ├── screenshots/              # Screenshot untuk README
 ├── uploads/                  # Penampung file sampul buku
 ├── koneksi.php               # Koneksi MySQL + fungsi bantu bersama
-├── style.css                 # Tampilan aplikasi
+├── css/
+    └── style.css             # Tampilan aplikasi
 ├── index.php                 # Halaman login
 ├── proses_login.php          # Verifikasi login, session, cookie
 ├── logout.php                # Hapus session dan cookie
