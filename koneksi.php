@@ -124,7 +124,7 @@ function tampil_kepala($judul, $dengan_nav = true)
     <link href="https://fonts.googleapis.com/css2?family=Syne:wght@600;800&family=Manrope:wght@400;500;700&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/project_perpustakaan/css/style.css" rel="stylesheet">
 </head>
 <body>
 <?php if ($dengan_nav): ?>
